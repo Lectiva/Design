@@ -1,0 +1,115 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-kf2x03');
+	src:url('fonts/icomoon.eot?#iefix-kf2x03') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-kf2x03') format('woff'),
+		url('fonts/icomoon.ttf?-kf2x03') format('truetype'),
+		url('fonts/icomoon.svg?-kf2x03#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alumno:before {
+	content: "\e600";
+}
+.icon-buscar:before {
+	content: "\e601";
+}
+.icon-catbelleza:before {
+	content: "\e602";
+}
+.icon-catcomercial:before {
+	content: "\e603";
+}
+.icon-cathost:before {
+	content: "\e604";
+}
+.icon-catindust:before {
+	content: "\e605";
+}
+.icon-catmkt:before {
+	content: "\e606";
+}
+.icon-catoficios:before {
+	content: "\e607";
+}
+.icon-catrrhh:before {
+	content: "\e608";
+}
+.icon-catsalud:before {
+	content: "\e609";
+}
+.icon-cattecno:before {
+	content: "\e60a";
+}
+.icon-centro:before {
+	content: "\e60b";
+}
+.icon-centro2:before {
+	content: "\e60c";
+}
+.icon-com:before {
+	content: "\e60d";
+}
+.icon-distancia:before {
+	content: "\e60e";
+}
+.icon-duracion:before {
+	content: "\e60f";
+}
+.icon-estrella:before {
+	content: "\e610";
+}
+.icon-fb:before {
+	content: "\e611";
+}
+.icon-geo:before {
+	content: "\e612";
+}
+.icon-gp:before {
+	content: "\e613";
+}
+.icon-ko:before {
+	content: "\e614";
+}
+.icon-lectiva:before {
+	content: "\e615";
+}
+.icon-ln:before {
+	content: "\e616";
+}
+.icon-off:before {
+	content: "\e617";
+}
+.icon-ok:before {
+	content: "\e618";
+}
+.icon-precio:before {
+	content: "\e619";
+}
+.icon-presencial:before {
+	content: "\e61a";
+}
+.icon-requisitos:before {
+	content: "\e61b";
+}
+.icon-titulo:before {
+	content: "\e61c";
+}
+.icon-tw:before {
+	content: "\e61d";
+}
